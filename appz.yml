@@ -22,7 +22,7 @@ properties:
   DISABLE_FLUENTD: 0
   NODE_MODE: single-node
   AXON_HOME: /axonserver
-  AXONIQ_AXONSERVER_NAME: axon-server-24-1-cloudorbit-v5
+  AXONIQ_AXONSERVER_NAME: axon-server-24-1-cloudorbit-v1
   AXON_ADMIN_PASSWORD:
     vault: AXON_ADMIN_PASSWORD
   AXON_SERVER_TOKEN:
