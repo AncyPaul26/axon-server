@@ -1,7 +1,7 @@
 app:
     name: axonserver
     code: AXONSERVER
-    notify: aramanan@ecloudcontrol.com
+    notify: apaul@ecloudcontrol.com
 build:
     version: 24.01
     env: PROD
