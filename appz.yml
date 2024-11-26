@@ -17,6 +17,7 @@ deploy:
     - 8024
     - 8124
     - 8224
+    - 8000
 volumes:
   - claim: axon-home
     mount: /appz/home
@@ -46,5 +47,5 @@ properties:
   AXON_ENDPOINT: "http://localhost:8024"
   AXONIQ_AXONSERVER_STANDALONE: "false"
   REPLICATION: 1
-  revision: 3
+  revision: 4
   
