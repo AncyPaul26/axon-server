@@ -39,7 +39,7 @@ properties:
     vault: AXON_ADMIN_PASSWORD
   AXON_SERVER_TOKEN:
     vault: AXON_SERVER_TOKEN
-  AXONIQ_LICENSE: /appz/home/.ssh/axonserver-license.key
+  AXONIQ_LICENSE: /appz/home/.ssh/AXONIQ_LICENSE.key
   PRIVATE_KEY_FILE:
     vault: PRIVATE_KEY_FILE
   CERT_FILE:
