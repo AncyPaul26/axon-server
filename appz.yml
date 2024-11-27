@@ -50,5 +50,5 @@ properties:
   AXON_ENDPOINT: "http://localhost:8024"
   AXONIQ_AXONSERVER_STANDALONE: "false"
   REPLICATION: 1
-  revision: 01
+  revision: 02
   
