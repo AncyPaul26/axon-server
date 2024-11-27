@@ -39,7 +39,10 @@ properties:
     vault: AXON_ADMIN_PASSWORD
   AXON_SERVER_TOKEN:
     vault: AXON_SERVER_TOKEN
-  AXONIQ_LICENSE: /appz/home/.ssh/AXONIQ_LICENSE.key
+  AXON_SERVICE_NAME: axon-server-24-01
+  #AXONIQ_LICENSE: /appz/home/.ssh/AXONIQ_LICENSE.key
+  AXONIQ_LICENSE:
+    vault: AXONIQ_LICENSE
   PRIVATE_KEY_FILE:
     vault: PRIVATE_KEY_FILE
   CERT_FILE:
@@ -47,5 +50,5 @@ properties:
   AXON_ENDPOINT: "http://localhost:8024"
   AXONIQ_AXONSERVER_STANDALONE: "false"
   REPLICATION: 1
-  revision: 04
+  revision: 05
   
