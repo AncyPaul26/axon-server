@@ -51,5 +51,5 @@ properties:
   AXONIQ_AXONSERVER_STANDALONE: "false"
   AXONSERVER_CONTEXTS: _admin,default,custom
   REPLICATION: 1
-  revision: 01
+  revision: 02
   
