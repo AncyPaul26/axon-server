@@ -49,6 +49,7 @@ properties:
     vault: CERT_FILE     
   AXON_ENDPOINT: "http://localhost:8024"
   AXONIQ_AXONSERVER_STANDALONE: "false"
+  AXONIQ_AXONSERVER_UI_SHOW_CLUSTER_INFO: "false"
   AXONSERVER_CONTEXTS: _admin,default,custom
   REPLICATION: 1
   revision: 02
