@@ -52,5 +52,5 @@ properties:
   AXONIQ_AXONSERVER_UI_SHOW_CLUSTER_INFO: false
   AXONSERVER_CONTEXTS: _admin,default
   REPLICATION: 1
-  revision: 02
+  revision: 01
   
